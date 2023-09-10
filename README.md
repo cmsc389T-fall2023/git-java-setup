@@ -16,6 +16,8 @@ Henry Balick Goodman
 
 Grace Ko
 
+Nick Komons
+
 Tim Vuong
 
 Patrick Hael
