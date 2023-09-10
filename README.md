@@ -17,3 +17,5 @@ Henry Balick Goodman
 Grace Ko
 
 Tim Vuong
+
+Patrick Hael
