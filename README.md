@@ -44,3 +44,5 @@ Kheshav Kumar
 Sean Sweeney
 
 Wren Lowe
+
+Alexis Paul
