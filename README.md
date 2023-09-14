@@ -56,3 +56,5 @@ Jose Valdivia
 Shane Purnell
 
 Benjamin Fleming
+
+Clement Lee
