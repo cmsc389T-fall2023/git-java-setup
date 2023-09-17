@@ -66,3 +66,5 @@ Juan Ventura
 Joseph Yi
 
 Rachel Rowe
+
+Harrison Kim
