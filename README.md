@@ -63,5 +63,13 @@ Clement Lee
 
 Juan Ventura
 
+<<<<<<< HEAD
 Vanshika Shah
 
+=======
+Joseph Yi
+
+Rachel Rowe
+
+Harrison Kim
+>>>>>>> a229b0ce4d55188d7e6ebbed3473aa942c59844a
