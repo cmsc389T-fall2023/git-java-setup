@@ -63,6 +63,7 @@ Clement Lee
 
 Juan Ventura
 
+Annaika Taneja
 <<<<<<< HEAD
 Vanshika Shah
 Vruti Soni
